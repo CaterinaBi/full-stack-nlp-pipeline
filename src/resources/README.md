@@ -13,4 +13,18 @@ This directory contains resources to build domain knowledge for the project.
 
 ## Chatbot Creation
 
+ | Resource | Link | Comments | 
+ |-|-|-| 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+
 ## Natural Language Generation
+
+ | Resource | Link | Comments | 
+ |-|-|-| 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
